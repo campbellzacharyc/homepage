@@ -37,6 +37,7 @@
   .header {
     position: relative;
     margin: auto;
+    background-color: aquamarine;
   }
   
   .style-wrapper {
@@ -229,6 +230,7 @@
   .footer .wrapper {
     display: flex;
     justify-content: center;
+    background-color: aquamarine;
   }
   
   .footer .wrapper>* {
